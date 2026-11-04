@@ -1,6 +1,6 @@
 :root{--navy:#2E3548;--terra:#D6876B;--muted:#5f6472;--line:#e6e3df;--alt:#f6f3f0}
 *{box-sizing:border-box}
-body{margin:0;background:#fff;color:var(--navy);font:300 18px/1.7 Outfit,system-ui,-apple-system,"Segoe UI",sans-serif;-webkit-font-smoothing:antialiased}
+body{margin:0;background:#fff;color:var(--navy);font:400 18px/1.7 Raleway,system-ui,-apple-system,"Segoe UI",sans-serif;-webkit-font-smoothing:antialiased;font-variant-numeric:lining-nums}
 img{display:block;max-width:100%;height:auto}
 a{color:var(--terra);text-decoration:none;font-weight:500}
 a:hover{text-decoration:underline}
